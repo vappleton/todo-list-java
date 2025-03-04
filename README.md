@@ -1,8 +1,8 @@
 <<<<<<< HEAD
 # todo-list-java
-A simple todo list built in Java
-User selects a task category and is prompted to enter the tasks they want to complete in a day.
-When user is done adding the tasks, the todo-list is displayed. 
+A simple task manager built in Java
+User selects a task category and is prompted to enter the tasks they want to complete.
+When the user is done adding the tasks, they have the option to keep adding tasks, mark as completed, view the to-do list, or delete tasks.  
 =======
 ## Getting Started
 
